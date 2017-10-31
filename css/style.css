@@ -1,0 +1,17 @@
+h1{
+  text-align:center;
+  color: blue;
+}
+
+h2 {
+  font-style: blue;
+  text-align:center;
+  color:teal;
+}
+p{
+  color: gray;
+}
+
+body {
+  background-color: skyblue;
+}
