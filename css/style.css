@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  text-shadow: 2px 2px #D3D3D3;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  text-shadow: 2px 2px #D3D3D3;
+}
+
+p{
+ text-align: center;
+
+}
+
+body{
+
+  background-color: #F08080;
+}
